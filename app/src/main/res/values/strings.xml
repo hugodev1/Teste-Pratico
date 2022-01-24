@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teste_Soma</string>
+    <string name="title">Soma de números:</string>
+    <string name="button_sum">Somar</string>
+    <string name="num_a_value">1</string>
+    <string name="num_b_value">5</string>
+    <string name="button_send">Enviar</string>
+</resources>
